@@ -143,5 +143,5 @@ $ total = VAT + COGS\\= 16.0265 + 320.53 = $336.5565$
 $ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenue}}\\=\frac{16.0265}{336.5565} = 0.047619\\\approx 4.7619\% $
 
 ## Code
-EDA has been Done is python, check this python file [walmart_EDA.ipynb](https://github.com/Sagar31658/Walmart-Sales-Analysis/edit/main/walmart_EDA.ipynb)
-For the rest of the code, check the [EDA_Walmart_queries.sql](https://github.com/Sagar31658/Walmart-Sales-Analysis/edit/main/EDA_Walmart_queries.sql) file
+EDA has been Done is python, check this python file [walmart_EDA.ipynb](https://github.com/Sagar31658/Walmart-Sales-Analysis/blob/main/walmart_EDA.ipynb)
+For the rest of the code, check the [EDA_Walmart_queries.sql](https://github.com/Sagar31658/Walmart-Sales-Analysis/blob/main/EDA_Walmart_queries.sql) file
